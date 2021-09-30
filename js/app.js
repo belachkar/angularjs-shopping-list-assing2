@@ -30,12 +30,12 @@
 
     const toBuyItems = [
       {
-        name: 'coukies',
+        name: 'cookies',
         qty: 10,
         isBought: false,
       },
       {
-        name: 'fromages',
+        name: 'sheese cakes',
         qty: 4,
         isBought: false,
       },
@@ -50,7 +50,7 @@
         isBought: false,
       },
       {
-        name: 'donnets',
+        name: 'donuts',
         qty: 1,
         isBought: false,
       },
